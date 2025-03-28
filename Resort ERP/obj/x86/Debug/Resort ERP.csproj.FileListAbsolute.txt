@@ -1,0 +1,648 @@
+D:\gaurav\gaurav\Resort ERP\Resort ERP\bin\Debug\Resort ERP.exe
+D:\gaurav\gaurav\Resort ERP\Resort ERP\bin\Debug\Resort ERP.pdb
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Setupuser.resources
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.exe
+D:\gaurav\gaurav\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\Work\Developments\C#\Resort ERP\Resort ERP\bin\Debug\Resort ERP.exe
+D:\Work\Developments\C#\Resort ERP\Resort ERP\bin\Debug\Resort ERP.pdb
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Setupuser.resources
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.exe
+D:\Work\Developments\C#\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.exe
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\Resort ERP\Resort ERP\bin\Debug\Resort ERP.exe
+D:\Resort ERP\Resort ERP\bin\Debug\Resort ERP.pdb
+D:\Resort ERP\Resort ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Setupuser.resources
+D:\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.csproj.GenerateResource.Cache
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.exe
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\bin\Debug\Resort ERP.exe
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\bin\Debug\Resort ERP.pdb
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Setupuser.resources
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+C:\Users\GAURAV\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\bin\Debug\Resort ERP.exe
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\bin\Debug\Resort ERP.pdb
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.exe
+C:\Users\CSism\Desktop\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.exe
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\Tmp\Resort ERP\Resort ERP\bin\Debug\Resort ERP.exe
+D:\Tmp\Resort ERP\Resort ERP\bin\Debug\Resort ERP.pdb
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+D:\Tmp\Resort ERP\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Tmp\Resort ERP1\Resort ERP\bin\Debug\Resort ERP.exe
+D:\Tmp\Resort ERP1\Resort ERP\bin\Debug\Resort ERP.pdb
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort ERP.exe
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\Tmp\Resort ERP1\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In__Report.resources
+C:\Users\CSISM\Desktop\Resort ERP122\Resort ERP\obj\x86\Debug\Resort ERP.exe
+C:\Users\CSISM\Desktop\Resort ERP122\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort ERP.exe
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Resort ERP122\Resort ERP\bin\Debug\Resort ERP.exe
+D:\Resort ERP122\Resort ERP\bin\Debug\Resort ERP.pdb
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In__Report.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+D:\Resort ERP122\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.exe
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.pdb
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In__Report.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_Detail_s.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_report.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.exe
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+C:\Users\GAURAV\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Today_s_Check_Out.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.exe
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.exe
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.pdb
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csprojResolveAssemblyReference.cache
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In__Report.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_Detail_s.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_report.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Today_s_Check_Out.resources
+C:\Users\KHOT\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csproj.GenerateResource.Cache
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.exe
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.exe
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.pdb
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csprojResolveAssemblyReference.cache
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In__Report.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_Detail_s.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_report.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Today_s_Check_Out.resources
+C:\Users\piyush\Desktop\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csproj.GenerateResource.Cache
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.exe
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csprojResolveAssemblyReference.cache
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In__Report.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_Detail_s.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_report.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Today_s_Check_Out.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csproj.GenerateResource.Cache
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.exe
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.pdb
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.SplashScreen.resources
+D:\gaurav\Help Tool\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.HotelIncome.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.exe
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.exe
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.pdb
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In__Report.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_Detail_s.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_report.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.HotelIncome.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.SplashScreen.resources
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Today_s_Check_Out.resources
+F:\Users\piyush\Desktop\developers tool\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.exe
+F:\Users\piyush\Desktop\developers tool\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+C:\Users\piyush\Desktop\developers tool\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.exe
+C:\Users\piyush\Desktop\developers tool\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\piyush\Desktop\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csproj.AssemblyReference.cache
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Change_Password.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In__Report.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_Detail_s.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_report.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.HotelIncome.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.SplashScreen.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Today_s_Check_Out.resources
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csproj.GenerateResource.cache
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csproj.CoreCompileInputs.cache
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.exe
+C:\Users\tienn\Downloads\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.exe.config
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.exe
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\Resort ERP.pdb
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\AxShockwaveFlashObjects.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\CrystalDecisions.Shared.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\CrystalDecisions.Web.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\FlashControlV71.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\log4net.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\log4net.xml
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\cs\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\da\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\de\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\en\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\es\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\fi\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\fr\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\hu\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\it\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ja\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ko\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\nb-NO\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\nl\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\pl\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\pt\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ru\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\sk\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\sv\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\th\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\tr\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\zh-CHS\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\zh-CHT\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csproj.AssemblyReference.cache
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In__Report.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_Detail_s.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_report.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.HotelIncome.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.SplashScreen.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort_ERP.Today_s_Check_Out.resources
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csproj.GenerateResource.cache
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csproj.CoreCompileInputs.cache
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.csproj.CopyComplete
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.exe
+D:\CongNghePhanMem\new project\Resort ERP1223\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\Resort ERP.exe.config
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\Resort ERP.exe
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\Resort ERP.pdb
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\AxShockwaveFlashObjects.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\CrystalDecisions.Shared.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\CrystalDecisions.Web.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\FlashControlV71.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\log4net.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\log4net.xml
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\nb-NO\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHS\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHT\CrystalDecisions.CrystalReports.Engine.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\cs\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\da\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\de\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\en\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\es\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fi\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fr\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\hu\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\it\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ja\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ko\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\nb-NO\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\nl\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pl\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pt\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ru\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\sk\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\sv\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\th\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\tr\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHS\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHT\CrystalDecisions.Web.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\cs\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\da\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\de\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\en\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\es\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fi\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fr\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\hu\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\it\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ja\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ko\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\nb-NO\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\nl\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pl\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pt\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ru\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\sk\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\sv\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\th\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\tr\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHS\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHT\CrystalDecisions.Windows.Forms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort ERP.csproj.AssemblyReference.cache
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In_Out.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.Check_In__Report.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_Detail_s.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.Check_out_report.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.Extracharges.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.MDI.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.frmAdd_New_User.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.frmChange_Password.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.Gatway.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.HotelConfiguration.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.HotelIncome.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.Identifaction.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.Login.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.MDIParent1.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.Properties.Resources.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.RoomConfiguration.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.SplashScreen.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort_ERP.Today_s_Check_Out.resources
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort ERP.csproj.GenerateResource.cache
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort ERP.csproj.CoreCompileInputs.cache
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort ERP.csproj.CopyComplete
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort ERP.exe
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\obj\x86\Debug\Resort ERP.pdb
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ReportCheck-out.rdlc
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\EnvDTE.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CongNghePhanMem\CongNghePhanMem\Resort ERP123\Resort ERP\bin\Debug\ReportCheck-in.rdlc

@@ -1,0 +1,6 @@
+admin
+user name: tyn
+password: tyn
+user
+user name: hutech
+password: 456
