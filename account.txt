@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 admin
 user name: tyn
 password: tyn
 user
 user name: hutech
+=======
+admin
+user name: tyn
+password: tyn
+user
+user name: hutech
+>>>>>>> 8e15684f7b1241ec0f0dd41c8c8431a8fa693a95
 password: 456
