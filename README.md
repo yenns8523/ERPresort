@@ -1,3 +1,4 @@
 # ERPresort
 
-ERPCongNghePhanMem
+ERPCongNghePhanMem  
+This is the updated Resort ERP project.
